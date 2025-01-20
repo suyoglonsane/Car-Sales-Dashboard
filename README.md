@@ -27,4 +27,10 @@ This repository contains a comprehensive **Car Sales Dashboard** created using *
 - Identification of top-selling car models and brands.  
 
 #### Tools Used:  
-- **Power BI** for data visualization and interactivity.  
+- **Power BI** for data visualization and interactivity.
+
+  ![Car Sales Dashboard 1](https://github.com/user-attachments/assets/c62a7a76-e61b-41b0-afa6-622ae8911461)
+
+  ![Car Sales Dashboard 2](https://github.com/user-attachments/assets/3ee262c5-b7dc-42e9-ba47-0845f340ae4b)
+
+
